@@ -32,7 +32,7 @@
     "express": "^4.20.0",
     "jsonwebtoken": "^9.0.2",
     "mongodb": "^6.8.0",
-    "multer": "^2.0.2",
+    "multer": "^2.1.0",
     "mysql2": "^3.10.3",
     "openai": "^4.53.2",
     "socket.io": "^4.7.5"
